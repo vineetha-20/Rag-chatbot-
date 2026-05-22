@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+faiss-cpu
+numpy
+requests
+pdfplumber
+python-docx
